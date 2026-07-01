@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 </a>
 
-<a href="">
+<a href="/Images/ITP-SA-cert.jpeg">
 <img src="https://img.shields.io/badge/ICITP-ITP--SA-6A5ACD?style=for-the-badge">
 </a>
 
