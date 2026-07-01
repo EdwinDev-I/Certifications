@@ -42,10 +42,6 @@
 <img src="https://img.shields.io/badge/ISC2-CCSP%20(In%20View)-00599C?style=for-the-badge&logo=isc2&logoColor=white">
 </a>
 
-<a href="YOUR_ITP_SA_LINK">
-<img src="https://img.shields.io/badge/ICITP-ITP--SA-6A5ACD?style=for-the-badge">
-</a>
-
 <a href="YOUR_CEH_LINK">
 <img src="https://img.shields.io/badge/CEH-In%20Progress-FF0000?style=for-the-badge">
 </a>
